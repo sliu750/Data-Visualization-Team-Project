@@ -22,7 +22,7 @@ Here is an embedded Tableau visualization showing agriculture land use:
 
 # Pesticide Use Visualization
 
-<iframe src="https://public.tableau.com/app/profile/sean.liu1413/viz/6730_Visualizations_PesticideUse/PesticideUse?:showVizHome=no&:embed=true"
+<iframe src="https://public.tableau.com/views/6730_Visualizations_PesticideUse/PesticideUse?:showVizHome=no&:embed=true"
         width="800" 
         height="600" 
         frameborder="0"></iframe>
