@@ -4,5 +4,12 @@ Team members: Elliott Chen, Hyunju Ji, Sean Liu, Seohee Yoon
 
 Topic: Environmental Impacts of Agriculture
 
-<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+# Agriculture Land Use Visualization
+
+Here is an embedded Tableau visualization showing agriculture land use:
+
+<iframe src="https://public.tableau.com/views/6730_Visualizations_AgriLandUse/AgriLandUse?:showVizHome=no&:embed=true" 
+        width="800" 
+        height="600" 
+        frameborder="0"></iframe>
 
