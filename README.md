@@ -22,14 +22,14 @@ But what about agricultural energy consumption? Surely modern farming technology
         height="600" 
         frameborder="0"></iframe>
 
-        
-
-# Pesticide Use Visualization
+Pesticide use has displayed some interesting trends over the years.
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/PesticideUse?:showVizHome=no&:embed=true"
         width="800" 
         height="600" 
         frameborder="0"></iframe>
+
+# ADD MEAT PRODUCTION VIZ
 
 
 
