@@ -29,7 +29,25 @@ Pesticide use has displayed some interesting trends over the years.
         height="600" 
         frameborder="0"></iframe>
 
-# ADD MEAT PRODUCTION VIZ
+# ADD ELLIOTT'S MEAT PRODUCTION VIZ
+
+With this in mind, let's first look at greenhouse gas emissions.
+
+# ADD SUNNY'S GREENHOUSE GAS HEATMAP
+
+# ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
+
+And now how is biodiversity affected?
+
+# ADD HYUNJU'S BIODIVERSITY VIZ
+
+What about water quality?
+
+# ADD SUNNY'S WATER USE VIZ AND HYUNJU'S WATER QUALITY VIZ
+
+But at the end of day, are the environmental losses justifiable? What have we gained?
+
+# ADD SEAN'S TFP VIZ
 
 
 
