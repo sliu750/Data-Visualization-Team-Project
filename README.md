@@ -17,14 +17,14 @@ A few countries are clearly dominant in terms of agricultural land use, such as 
         height="600" 
         frameborder="0"></iframe>
         
-But what about agricultural energy consumption? Surely modern farming technology requires energy, whether in the form of electricity or fossil fuels.
+<p>But what about agricultural energy consumption? Surely modern farming technology requires energy, whether in the form of electricity or fossil fuels.</p>
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/EnergyUseMap?:showVizHome=no&:embed=true" 
         width="800" 
         height="600" 
         frameborder="0"></iframe>
 
-Pesticide use has displayed some interesting trends over the years.
+<p>Pesticide use has displayed some interesting trends over the years.</p>
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/PesticideUse?:showVizHome=no&:embed=true"
         width="800" 
