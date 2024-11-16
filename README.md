@@ -17,7 +17,7 @@ A few countries are clearly dominant in terms of agricultural land use, such as 
         
 But what about agricultural energy consumption? Surely modern farming technology requires energy, whether in the form of electricity or fossil fuels.
 
-<iframe src="https://public.tableau.com/views/6730_Agricultural_Energy_Use/EnergyUse2_0?:showVizHome=no&:embed=true" 
+<iframe src="https://public.tableau.com/views/6730_Agricultural_Energy_Use/EnergyUseMap?:showVizHome=no&:embed=true" 
         width="800" 
         height="600" 
         frameborder="0"></iframe>
