@@ -10,21 +10,21 @@ As the global population continues to grow, the demand for food increases, creat
 
 # Current Status of Agriculture
 
-A few countries are clearly dominant in terms of agricultural land use, such as China, United States, Australia. Within a continent, a couple of countries are the main agricultural producers- for example Brazil and Argentina in South America. This is no surprise given their land areas and in some cases, their populations. 
+A few countries are clearly dominant in terms of agricultural land use, such as China, United States, and Australia. Within a continent, a couple of countries are the main agricultural producers- for example Brazil and Argentina in South America. This is no surprise given their land areas and in some cases, their populations. 
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/AgriLandUse?:showVizHome=no&:embed=true" 
         width="800" 
         height="600" 
         frameborder="0"></iframe>
 <br><br>
-But what about agricultural energy consumption? Surely modern farming technology requires energy, whether in the form of electricity or fossil fuels.
+But what about agricultural energy consumption? Surely modern farming technology requires energy, whether in the form of electricity or fossil fuels. Here is how worldwide agricultural energy use has changed from 2012 to 2021.
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/EnergyUseMap?:showVizHome=no&:embed=true" 
         width="800" 
         height="600" 
         frameborder="0"></iframe>
 <br><br>
-Pesticide use has displayed some interesting trends over the years.
+Pesticide use has displayed some interesting trends over the years. Click on a continent to focus on trends within that coontinent.
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/PesticideUse?:showVizHome=no&:embed=true"
         width="800" 
