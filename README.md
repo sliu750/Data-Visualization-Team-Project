@@ -47,7 +47,12 @@ What about water quality?
 
 # ADD SUNNY'S WATER USE VIZ AND HYUNJU'S WATER QUALITY VIZ
 
-But at the end of day, are the environmental losses justifiable? What have we gained?
+But at the end of day, are the environmental losses justifiable? What have we gained? Here you can see how total factor productivity (TFP) has changed over the last 6 decades for regions around the world.
+
+<iframe src="https://public.tableau.com/views/6730_Visualizations/TFPRegion?:showVizHome=no&:embed=true"
+        width="800" 
+        height="600" 
+        frameborder="0"></iframe>
 
 # ADD SEAN'S TFP VIZ
 
