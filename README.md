@@ -53,10 +53,3 @@ But at the end of day, are the environmental losses justifiable? What have we ga
         width="800" 
         height="600" 
         frameborder="0"></iframe>
-
-# ADD SEAN'S TFP VIZ
-
-
-
-       
-
