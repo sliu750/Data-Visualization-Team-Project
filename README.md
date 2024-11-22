@@ -53,7 +53,7 @@ What about water quality?
 
 Here you can see how worldwide water use has changed over the years.
 
-<iframe src="https://public.tableau.com/views/shared/3BBS5489F?:showVizHome=no&:embed=true" 
+<iframe src="https://public.tableau.com/views/water_use/3BBS5489F?:showVizHome=no&:embed=true" 
         width="1400" 
         height="600" 
         frameborder="0"></iframe>
