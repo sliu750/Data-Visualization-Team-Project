@@ -50,13 +50,20 @@ With this in mind, let's first look at greenhouse gas emissions.
         height="1040" 
         frameborder="0"></iframe>
 <br><br>
-# ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
+
+ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
 
 # Biodiversity
 
 And now how is biodiversity affected?
 
-# ADD HYUNJU'S BIODIVERSITY VIZ
+Here are biodiversity rankings for various countries in the past two decades. 
+
+<iframe src="https://public.tableau.com/views/BumpChart_17322889494520/Sheet1?:showVizHome=no&:embed=true" 
+        width="1100" 
+        height="900" 
+        frameborder="0"></iframe>
+<br><br>
 
 # Water Quality
 
@@ -68,7 +75,7 @@ Here you can see how worldwide water use has changed over the years.
         height="600" 
         frameborder="0"></iframe>
 
-# ADD SUNNY'S WATER USE VIZ AND HYUNJU'S WATER QUALITY VIZ
+ADD SUNNY'S WATER USE VIZ AND HYUNJU'S WATER QUALITY VIZ
 
 But at the end of day, are the environmental losses justifiable? What have we gained? Here you can see how total factor productivity (TFP) has changed over the last 6 decades for regions around the world. Asia, South Europe, and South America (particularly Brazil) have made the largest improvements.
 
