@@ -74,8 +74,10 @@ Here you can see how worldwide water use has changed over the years.
         width="1400" 
         height="600" 
         frameborder="0"></iframe>
-
+<br><br>
 ADD SUNNY'S WATER USE VIZ AND HYUNJU'S WATER QUALITY VIZ
+
+# Conclusion
 
 But at the end of day, are the environmental losses justifiable? What have we gained? Here you can see how total factor productivity (TFP) has changed over the last 6 decades for regions around the world. Asia, South Europe, and South America (particularly Brazil) have made the largest improvements.
 
