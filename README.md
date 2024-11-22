@@ -24,7 +24,6 @@ But what about agricultural energy consumption? Surely modern farming technology
         height="600" 
         frameborder="0"></iframe>
 <br><br>
-
 Pesticide use has displayed some interesting trends over the years. Click on a continent to focus on trends within that coontinent.
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/PesticideUse?:showVizHome=no&:embed=true"
@@ -32,7 +31,6 @@ Pesticide use has displayed some interesting trends over the years. Click on a c
         height="600" 
         frameborder="0"></iframe>
 <br><br>
-
 Another important aspect of agriculture is meat production. Here you can see changes in the types of meat production over the years, and the countries that are primarily producing those meats.
 
 <iframe src="https://public.tableau.com/views/meatproduction_stackedhorizontally_country/Sheet2?:showVizHome=no&:embed=true" 
@@ -40,7 +38,6 @@ Another important aspect of agriculture is meat production. Here you can see cha
         height="1040" 
         frameborder="0"></iframe>
 <br><br>
-
 # Greenhouse Gas Emissions
 
 With this in mind, let's first look at greenhouse gas emissions.
@@ -50,7 +47,6 @@ With this in mind, let's first look at greenhouse gas emissions.
         height="1040" 
         frameborder="0"></iframe>
 <br><br>
-
 ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
 
 # Biodiversity
@@ -64,7 +60,6 @@ Here are biodiversity rankings for various countries in the past two decades. Cl
         height="900" 
         frameborder="0"></iframe>
 <br><br>
-
 # Water Quality
 
 What about water quality?
@@ -75,7 +70,7 @@ Here you can see how worldwide water use has changed over the years.
         height="600" 
         frameborder="0"></iframe>
 <br><br>
-ADD SUNNY'S WATER USE VIZ AND HYUNJU'S WATER QUALITY VIZ
+ADD HYUNJU'S WATER QUALITY VIZ
 
 # Conclusion
 
