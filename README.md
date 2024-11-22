@@ -31,12 +31,21 @@ Pesticide use has displayed some interesting trends over the years. Click on a c
         width="800" 
         height="600" 
         frameborder="0"></iframe>
+<br><br>
+
+Another important aspect of agriculture is meat production. Here you can see changes in the types of meat production over the years, and the countries that are primarily producing those meats.
+
+<iframe src="https://public.tableau.com/views/6730_Visualizations/PesticideUse?:showVizHome=no&:embed=true"
+        width="800" 
+        height="600" 
+        frameborder="0"></iframe>
+<br><br>
 
 # Greenhouse Gas Emissions
 
 With this in mind, let's first look at greenhouse gas emissions.
 
-<iframe src="https://public.tableau.com/views/gas_emssion/Sheet4?:showVizHome=no&:embed=true" 
+<iframe src="https://public.tableau.com/views/meatproduction_stackedhorizontally_country/Sheet2?:showVizHome=no&:embed=true" 
         width="1200" 
         height="1040" 
         frameborder="0"></iframe>
