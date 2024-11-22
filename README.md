@@ -24,6 +24,7 @@ But what about agricultural energy consumption? Surely modern farming technology
         height="600" 
         frameborder="0"></iframe>
 <br><br>
+
 Pesticide use has displayed some interesting trends over the years. Click on a continent to focus on trends within that coontinent.
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/PesticideUse?:showVizHome=no&:embed=true"
@@ -31,7 +32,7 @@ Pesticide use has displayed some interesting trends over the years. Click on a c
         height="600" 
         frameborder="0"></iframe>
 
-# ADD ELLIOTT'S MEAT PRODUCTION VIZ
+# Greenhouse Gas Emissions
 
 With this in mind, let's first look at greenhouse gas emissions.
 
