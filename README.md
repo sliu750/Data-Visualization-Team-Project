@@ -14,7 +14,7 @@ A few countries are clearly dominant in terms of agricultural land use, such as 
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/AgriLandUse?:showVizHome=no&:embed=true" 
         width="800" 
-        height="600" 
+        height="500" 
         frameborder="0"></iframe>
 <br><br>
 But what about agricultural energy consumption? Surely modern farming technology requires energy, whether in the form of electricity or fossil fuels. Here is how worldwide agricultural energy use has changed from 2012 to 2021.
@@ -38,7 +38,7 @@ With this in mind, let's first look at greenhouse gas emissions.
 
 <iframe src="https://public.tableau.com/views/gas_emssion/Sheet4?:showVizHome=no&:embed=true" 
         width="1200" 
-        height="1400" 
+        height="1000" 
         frameborder="0"></iframe>
 <br><br>
 # ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
@@ -54,7 +54,7 @@ What about water quality?
 Here you can see how worldwide water use has changed over the years.
 
 <iframe src="https://public.tableau.com/views/shared/3BBS5489F?:showVizHome=no&:embed=true" 
-        width="1500" 
+        width="1400" 
         height="600" 
         frameborder="0"></iframe>
 
