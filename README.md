@@ -38,7 +38,7 @@ With this in mind, let's first look at greenhouse gas emissions.
 
 <iframe src="https://public.tableau.com/views/gas_emssion/Sheet4?:showVizHome=no&:embed=true" 
         width="1200" 
-        height="1000" 
+        height="1040" 
         frameborder="0"></iframe>
 <br><br>
 # ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
