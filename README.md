@@ -20,8 +20,8 @@ A few countries are clearly dominant in terms of agricultural land use, such as 
 But what about agricultural energy consumption? Surely modern farming technology requires energy, whether in the form of electricity or fossil fuels. Here is how worldwide agricultural energy use has changed from 2012 to 2021.
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/EnergyUseMap?:showVizHome=no&:embed=true" 
-        width="1200" 
-        height="1400" 
+        width="800" 
+        height="600" 
         frameborder="0"></iframe>
 <br><br>
 
@@ -37,8 +37,8 @@ Pesticide use has displayed some interesting trends over the years. Click on a c
 With this in mind, let's first look at greenhouse gas emissions.
 
 <iframe src="https://public.tableau.com/views/gas_emssion/Sheet4?:showVizHome=no&:embed=true" 
-        width="800" 
-        height="600" 
+        width="1200" 
+        height="1400" 
         frameborder="0"></iframe>
 <br><br>
 # ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
@@ -46,6 +46,8 @@ With this in mind, let's first look at greenhouse gas emissions.
 And now how is biodiversity affected?
 
 # ADD HYUNJU'S BIODIVERSITY VIZ
+
+# Water Quality
 
 What about water quality?
 
