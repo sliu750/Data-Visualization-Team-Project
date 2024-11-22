@@ -57,7 +57,7 @@ ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
 
 And now how is biodiversity affected?
 
-Here are biodiversity rankings for various countries in the past two decades. 
+Here are biodiversity rankings for various countries in the past two decades. Click on a country to see how its biodiversity ranking has changed over the years. You can also see biodiversity rankings for any combination of countries by selecting the checkboxes next to them.
 
 <iframe src="https://public.tableau.com/views/BumpChart_17322889494520/Sheet1?:showVizHome=no&:embed=true" 
         width="1100" 
