@@ -35,9 +35,9 @@ Pesticide use has displayed some interesting trends over the years. Click on a c
 
 Another important aspect of agriculture is meat production. Here you can see changes in the types of meat production over the years, and the countries that are primarily producing those meats.
 
-<iframe src="https://public.tableau.com/views/meatproduction_stackedhorizontally_country/Sheet2?:showVizHome=no&:embed=true"
-        width="1400" 
-        height="1200" 
+<iframe src="https://public.tableau.com/views/gas_emssion/Sheet4?:showVizHome=no&:embed=true"
+        width="1200" 
+        height="1400" 
         frameborder="0"></iframe>
 <br><br>
 
@@ -51,6 +51,8 @@ With this in mind, let's first look at greenhouse gas emissions.
         frameborder="0"></iframe>
 <br><br>
 # ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
+
+# Biodiversity
 
 And now how is biodiversity affected?
 
