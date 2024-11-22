@@ -51,6 +51,13 @@ And now how is biodiversity affected?
 
 What about water quality?
 
+Here you can see how worldwide water use has changed over the years.
+
+<iframe src="https://public.tableau.com/views/shared/3BBS5489F?:showVizHome=no&:embed=true" 
+        width="1500" 
+        height="600" 
+        frameborder="0"></iframe>
+
 # ADD SUNNY'S WATER USE VIZ AND HYUNJU'S WATER QUALITY VIZ
 
 But at the end of day, are the environmental losses justifiable? What have we gained? Here you can see how total factor productivity (TFP) has changed over the last 6 decades for regions around the world. Asia, South Europe, and South America (particularly Brazil) have made the largest improvements.
