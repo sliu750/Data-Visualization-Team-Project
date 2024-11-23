@@ -1,4 +1,4 @@
-        # Fall 2024 Data Vis CS 6730 Team Project
+# Fall 2024 Data Vis CS 6730 Team Project
 
 Team members: Elliott Chen, Hyunju Ji, Sean Liu, Seohee Yoon
 
@@ -31,7 +31,7 @@ Pesticide use has displayed some interesting trends over the years. Click on a c
         height="600" 
         frameborder="0"></iframe>
 <br><br>
-Another important aspect of agriculture is meat production. Here you can see changes in the primary types of meat production over the years, and the countries that are primarily producing those meats.
+Another important aspect of agriculture is meat production. Here you can see changes in the primary types of meat production (beef, pork, poultry, lamb) over the years, and the countries that are primarily producing those meats.
 
 <iframe src="https://public.tableau.com/views/meatproduction_stackedhorizontally_country/Sheet2?:showVizHome=no&:embed=true" 
         width="1200" 
