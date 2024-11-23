@@ -40,7 +40,7 @@ Another important aspect of agriculture is meat production. Here you can see cha
 <br><br>
 # Greenhouse Gas Emissions
 
-With this in mind, let's first look at greenhouse gas emissions. Greenhouse gases come from sources such as rice production, livestock farming (especially cows), fertilizer production, and fossil fuel consumption.
+With this in mind, let's first look at greenhouse gas emissions. Greenhouse gases come from sources such as rice production, livestock farming (especially cows), fertilizer production, and fossil fuel consumption. The most common greenhouse gases are carbon dioxide (CO₂), methane (CH₄), and nitrous oxide (N₂O). There is the well-known greenhouse effect, where such greenhouse gases trap heat on the Earth, contributing to rising global temperatures and more extreme weather. It is estimated that around one-quarter of the world's greenhouse gas emissions come from agriculture.
 
 <iframe src="https://public.tableau.com/views/gas_emssion/Sheet4?:showVizHome=no&:embed=true" 
         width="1200" 
@@ -88,3 +88,11 @@ But at the end of day, are the environmental losses justifiable? What have we ga
         width="800" 
         height="600" 
         frameborder="0"></iframe>
+
+# Sources
+
+https://ourworldindata.org/food-ghg-emissions 
+
+https://www.epa.gov/enviroatlas/enviroatlas-benefit-category-biodiversity-conservation
+
+https://www.icl-group.com/blog/the-importance-of-biodiversity-to-sustainability-and-the-future-of-agriculture/
