@@ -31,7 +31,7 @@ Pesticide use has displayed some interesting trends over the years. Click on a c
         height="600" 
         frameborder="0"></iframe>
 <br><br>
-Another important aspect of agriculture is meat production. Here you can see changes in the types of meat production over the years, and the countries that are primarily producing those meats.
+Another important aspect of agriculture is meat production. Here you can see changes in the primary types of meat production over the years, and the countries that are primarily producing those meats.
 
 <iframe src="https://public.tableau.com/views/meatproduction_stackedhorizontally_country/Sheet2?:showVizHome=no&:embed=true" 
         width="1200" 
@@ -40,26 +40,34 @@ Another important aspect of agriculture is meat production. Here you can see cha
 <br><br>
 # Greenhouse Gas Emissions
 
-With this in mind, let's first look at greenhouse gas emissions.
+With this in mind, let's first look at greenhouse gas emissions. Greenhouse gases come from sources such as rice production, livestock farming (especially cows), fertilizer production, and fossil fuel consumption.
 
 <iframe src="https://public.tableau.com/views/gas_emssion/Sheet4?:showVizHome=no&:embed=true" 
         width="1200" 
         height="1040" 
         frameborder="0"></iframe>
 <br><br>
+As far as food production goes, livestock production is a leading cause of greenhouse gas emissions. The amount of greenhouse gas emissions varies greatly from country to country, and even within the same geographic region.
+
 ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
 
 # Biodiversity
 
 And now how is biodiversity affected?
 
-Here are biodiversity rankings for various countries in the past two decades. Click on a country to see how its biodiversity ranking has changed over the years. You can also see biodiversity rankings for any combination of countries by selecting the checkboxes next to them.
+Biodiversity is crucial for maintaining the natural processes that sustain life on Earth. Balanced ecosystems are essential for pollination, fresh air and water, healthy soil, and even medicines for illnesses. However, agricultural activities such as overgrazing, deforestation, and monoculture farming jeopardize biodiversity. When biodiversity declines, genetic diversity decreases, leaving ecosystems less resilient to environmental shocks such as disease or drought. Infectious diseases harmful to humans, animals, and plants are also more likely to spread. 
+
+From an agricultural perspective, biodiversity plays a key role in soil fertility, nutrient cycling, and natural pest control, which are vital for sustainable farming practices. Without healthy ecosystems, agriculture becomes more dependent on chemical inputs, further exacerbating environmental damage.
+
+Here are biodiversity rankings for various countries in the past two decades. Click on a country to see how its biodiversity ranking has changed over the years. You can also see biodiversity rankings for any combination of countries by selecting their checkboxes.
 
 <iframe src="https://public.tableau.com/views/BumpChart_17322889494520/Sheet1?:showVizHome=no&:embed=true" 
         width="1100" 
         height="900" 
         frameborder="0"></iframe>
 <br><br>
+There are ways to preserve biodiversity through practices such as crop rotation, polyculture farming (i.e. growing multiple types of crops), no-till farming (which decreases erosion and retains soil moisture), agroforestry (i.e. planting trees on farmland), and supporting pollinators (e.g. birds, bees, butterflies). These approaches not only protect biodiversity but also boost agricultural productivity and sustainability in the long run.
+
 # Water Quality
 
 What about water quality?
