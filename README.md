@@ -1,4 +1,4 @@
-# Fall 2024 Data Vis CS 6730 Team Project
+        # Fall 2024 Data Vis CS 6730 Team Project
 
 Team members: Elliott Chen, Hyunju Ji, Sean Liu, Seohee Yoon
 
@@ -70,7 +70,7 @@ There are ways to preserve biodiversity through practices such as crop rotation,
 
 # Water Quality
 
-What about water quality?
+What about water quality? Water is undeniably vital to all life on Earth. 
 
 Here you can see how worldwide water use has changed over the years.
 <iframe src="https://public.tableau.com/views/water_use2/Sheet1?:showVizHome=no&:embed=true" 
@@ -78,11 +78,12 @@ Here you can see how worldwide water use has changed over the years.
         height="600" 
         frameborder="0"></iframe>
 <br><br>
+Water quality is an important variable.
 ADD HYUNJU'S WATER QUALITY VIZ
 
 # Conclusion
 
-But at the end of day, are the environmental losses justifiable? What have we gained? Here you can see how total factor productivity (TFP) has changed over the last 6 decades for regions around the world. Asia, South Europe, and South America (particularly Brazil) have made the largest improvements.
+But at the end of day, are the environmental losses justifiable? What have we gained? Here you can see how total factor productivity (TFP), the ratio of aggregate outputs to aggregate inputs, has changed over the last 6 decades for regions around the world. Asia, South Europe, and South America (particularly Brazil) have made the largest improvements.
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/TFPRegion?:showVizHome=no&:embed=true"
         width="800" 
