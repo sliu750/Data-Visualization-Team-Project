@@ -70,7 +70,7 @@ There are ways to preserve biodiversity through practices such as crop rotation,
 
 # Water Quality
 
-What about water quality? Water is undeniably vital to all life on Earth. 
+What about water quality? Water is undeniably vital to all life on Earth, both for agriculture and for all organisms.
 
 ![Agricultural water consumption as proportion of total water usage](water_infograph.png)
 
