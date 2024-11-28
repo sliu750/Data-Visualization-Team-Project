@@ -72,6 +72,8 @@ There are ways to preserve biodiversity through practices such as crop rotation,
 
 What about water quality? Water is undeniably vital to all life on Earth. 
 
+![Agricultural water consumption as proportion of total water usage](assets/water infograph.png)
+
 Here you can see how worldwide water use has changed over the years.
 <iframe src="https://public.tableau.com/views/water_use2/Sheet1?:showVizHome=no&:embed=true" 
         width="1400" 
