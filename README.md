@@ -66,9 +66,9 @@ Biodiversity is crucial for maintaining the natural processes that sustain life 
 
 From an agricultural perspective, biodiversity plays a key role in soil fertility, nutrient cycling, and natural pest control, which are vital for sustainable farming practices. Without healthy ecosystems, agriculture becomes more dependent on chemical inputs, further exacerbating environmental damage.
 
-Here are biodiversity rankings for various countries in the past two decades. Click on a country to see how its biodiversity ranking has changed over the years. You can also see biodiversity rankings for any combination of countries by selecting their checkboxes.
+Here are biodiversity rankings for various countries in the past two decades. Click on a country to see how its biodiversity ranking has changed over the years.
 
-<iframe src="https://public.tableau.com/views/BumpChart_17322889494520/Sheet1?:showVizHome=no&:embed=true" 
+<iframe src="https://public.tableau.com/views/BumpChart_17322889494520/Sheet3?:showVizHome=no&:embed=true" 
         width="1100" 
         height="900" 
         frameborder="0"></iframe>
