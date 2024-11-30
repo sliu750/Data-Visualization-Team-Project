@@ -61,7 +61,7 @@ How much of each greenhouse gas is produced, and what is producing them? In agri
         height="1040" 
         frameborder="0"></iframe>
 <br><br>
-As far as food production goes, livestock production is a leading cause of greenhouse gas emissions. The amount of greenhouse gas emissions varies greatly from country to country, and even within the same geographic region.
+As far as food production goes, livestock production is a leading cause of greenhouse gas emissions. The amount of greenhouse gas emissions varies from country to country, and even the proportions of greenhouse gases from each type of animal varies across countries.
 <iframe src="https://public.tableau.com/views/EntericFermentationandMeatProduction/Sheet1?:showVizHome=no&:embed=true" 
         width="1200" 
         height="1040" 
@@ -72,7 +72,7 @@ As far as food production goes, livestock production is a leading cause of green
 
 And now how is biodiversity affected?
 
-Biodiversity is crucial for maintaining the natural processes that sustain life on Earth. Balanced ecosystems are essential for pollination, fresh air and water, healthy soil, and even medicines for illnesses. However, agricultural activities such as overgrazing, deforestation, and monoculture farming jeopardize biodiversity. When biodiversity declines, genetic diversity decreases, leaving ecosystems less resilient to environmental shocks such as disease or drought. Infectious diseases harmful to humans, animals, and plants are also more likely to spread. 
+Biodiversity is crucial for maintaining the natural processes that sustain life on Earth. Balanced ecosystems are essential for pollination, fresh air and water, healthy soil, and even medicines for illnesses. However, agricultural activities such as overgrazing, deforestation, and monoculture farming jeopardize biodiversity. When biodiversity declines, genetic diversity decreases, leaving ecosystems less resilient to environmental shocks such as disease or drought. Infectious diseases harmful to humans, animals, and plants are also more easily         spread. 
 
 From an agricultural perspective, biodiversity plays a key role in soil fertility, nutrient cycling, and natural pest control, which are vital for sustainable farming practices. Without healthy ecosystems, agriculture becomes more dependent on chemical inputs, further exacerbating environmental damage.
 
@@ -85,10 +85,9 @@ Here are biodiversity rankings for various countries in the past two decades. Cl
 <br><br>
 There are ways to preserve biodiversity through practices such as crop rotation, polyculture farming (i.e. growing multiple types of crops), no-till farming (which decreases erosion and retains soil moisture), agroforestry (i.e. planting trees on farmland), and supporting pollinators (e.g. birds, bees, butterflies). These approaches not only protect biodiversity but also boost agricultural productivity and sustainability in the long run.
 
-# Water Quality
+# Water Usage
 
-What about water quality? Water is undeniably vital to all life on Earth, both for agriculture and for all organisms.
-
+What about water usage? Water is undeniably vital to all life on Earth. About 70% of worldwide water consumption is by farms, especially for crops and livestock. Excessive water usage can disrupt natural water cycles and diminish water sources such as lakes and rivers, threatening long-term water quality. This highlights not only the need for sustainable water use in agriculture but also the importance of protecting water quality, which is essential for both agricultural productivity and ecosystem health.
 ![Agricultural water consumption as proportion of total water usage](water_infograph.png)
 
 Here you can see how worldwide water use has changed over the years.
@@ -97,8 +96,6 @@ Here you can see how worldwide water use has changed over the years.
         height="600" 
         frameborder="0"></iframe>
 <br><br>
-Water quality is an important variable.
-ADD HYUNJU'S WATER QUALITY VIZ
 
 # Conclusion
 
@@ -118,3 +115,5 @@ https://www.epa.gov/enviroatlas/enviroatlas-benefit-category-biodiversity-conser
 https://www.icl-group.com/blog/the-importance-of-biodiversity-to-sustainability-and-the-future-of-agriculture/
 
 https://extension.okstate.edu/fact-sheets/nitrous-oxide-emissions-from-soil.html#:~:text=Soil%20management%20in%20agricultural%20systems,processes%20occurring%20in%20the%20soil.
+
+https://htt.io/water-usage-in-the-agricultural-industry/
