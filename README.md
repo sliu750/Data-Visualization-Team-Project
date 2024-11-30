@@ -42,7 +42,7 @@ Additionally, these are the leading producers for each of those meat types.
 
 <iframe src="https://public.tableau.com/views/meatproduction_stackedhorizontally_country/Dashboard1?:showVizHome=no&:embed=true" 
         width="1200" 
-        height="1040" 
+        height="850" 
         frameborder="0"></iframe>
 <br><br>
 # Greenhouse Gas Emissions
