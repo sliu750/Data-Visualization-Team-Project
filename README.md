@@ -54,9 +54,17 @@ With this in mind, let's first look at greenhouse gas emissions. Greenhouse gase
         height="1040" 
         frameborder="0"></iframe>
 <br><br>
+<iframe src="https://public.tableau.com/views/sankey2_17329611840680/SankeySheet?:showVizHome=no&:embed=true" 
+        width="1200" 
+        height="1040" 
+        frameborder="0"></iframe>
+<br><br>
 As far as food production goes, livestock production is a leading cause of greenhouse gas emissions. The amount of greenhouse gas emissions varies greatly from country to country, and even within the same geographic region.
-
-ADD ELLIOTT'S GAS EMISSIONS AND MEAT PRODUCTION VIZ
+<iframe src="https://public.tableau.com/views/EntericFermentationandMeatProduction/Sheet1?:showVizHome=no&:embed=true" 
+        width="1200" 
+        height="1040" 
+        frameborder="0"></iframe>
+<br><br>
 
 # Biodiversity
 
