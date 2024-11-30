@@ -48,7 +48,7 @@ Additionally, these are the leading producers for each of those meat types.
 
 # Greenhouse Gas Emissions
 
-With this in mind, let's first look at greenhouse gas emissions. Greenhouse gases come from sources such as rice production, livestock farming (especially cows), fertilizer production, and fossil fuel consumption. The most common greenhouse gases are carbon dioxide (CO₂), methane (CH₄), and nitrous oxide (N₂O). There is the well-known greenhouse effect, where such greenhouse gases trap heat on the Earth, contributing to rising global temperatures and more extreme weather. It is estimated that around one-quarter of the world's greenhouse gas emissions come from agriculture.
+With this in mind, let's first look at greenhouse gas emissions. Greenhouse gases come from sources such as rice production, livestock farming (especially cows), fertilizer production, and fossil fuel consumption. The most common greenhouse gases are carbon dioxide (CO₂), methane (CH₄), and nitrous oxide (N₂O). These gases intensify the well-known greenhouse effect, where such greenhouse gases trap heat on the Earth, contributing to rising global temperatures and more extreme weather patterns. It is estimated that around one-quarter of the world's greenhouse gas emissions come from agriculture.
 
 <iframe src="https://public.tableau.com/views/gas_emssion/Sheet4?:showVizHome=no&:embed=true" 
         width="1200" 
@@ -72,7 +72,7 @@ As far as food production goes, livestock production is a leading cause of green
 
 And now how is biodiversity affected?
 
-Biodiversity is crucial for maintaining the natural processes that sustain life on Earth. Balanced ecosystems are essential for pollination, fresh air and water, healthy soil, and even medicines for illnesses. However, agricultural activities such as overgrazing, deforestation, and monoculture farming jeopardize biodiversity. When biodiversity declines, genetic diversity decreases, leaving ecosystems less resilient to environmental shocks such as disease or drought. Infectious diseases harmful to humans, animals, and plants are also more easily         spread. 
+Biodiversity is crucial for maintaining the natural processes that sustain life on Earth. Balanced ecosystems are essential for pollination, fresh air and water, healthy soil, and even medicines for illnesses. However, agricultural activities such as overgrazing, deforestation, and monoculture farming jeopardize biodiversity. Society has been growing less and less crop species over time; now, only nine species account for two-thirds of total crop production. When biodiversity declines, genetic diversity decreases, leaving ecosystems less resilient to environmental shocks such as disease or drought. Infectious diseases harmful to humans, animals, and plants are also more easily spread. 
 
 From an agricultural perspective, biodiversity plays a key role in soil fertility, nutrient cycling, and natural pest control, which are vital for sustainable farming practices. Without healthy ecosystems, agriculture becomes more dependent on chemical inputs, further exacerbating environmental damage.
 
@@ -87,8 +87,7 @@ There are ways to preserve biodiversity through practices such as crop rotation,
 
 # Water Usage
 
-What about water usage? Water is undeniably vital to all life on Earth. About 70% of worldwide water consumption is by farms, especially for crops and livestock.
-
+What about water usage? Water is undeniably vital to all life on Earth. Agriculture accounts for about 70% for global water consumption, primarily for crops and livestock.
 ![Agricultural water consumption as proportion of total water usage](water_infograph.png)
 
 Here you can see how worldwide water use has changed over the years.
@@ -98,16 +97,18 @@ Here you can see how worldwide water use has changed over the years.
         height="600" 
         frameborder="0"></iframe>
 <br><br>
-Excessive water usage can disrupt natural water cycles and diminish water sources such as lakes and rivers, threatening long-term water quality. This highlights not only the need for sustainable water use in agriculture but also the importance of protecting water quality, which is essential for both agricultural productivity and ecosystem health.
+Excessive water usage can disrupt natural water cycles and diminish water sources such as lakes and rivers, threatening long-term water quality. This highlights the need for sustainable agricultural practices that promote efficient water use and protect water quality.. For example, one actionable step is limiting the use of chemicals such as fertilizers and pesticides, whose runoffs contaminate water sources.
 
 # Conclusion
 
-But at the end of day, are the environmental losses justifiable? What have we gained? Here you can see how total factor productivity (TFP), the ratio of aggregate outputs to aggregate inputs, has changed over the last 6 decades for regions around the world. Asia, South Europe, and South America (particularly Brazil) have made the largest improvements.
+But at the end of day, are the environmental losses justifiable? What have we gained? Here you can see how total factor productivity (TFP), the ratio of aggregate outputs to aggregate inputs, has changed over the last six decades across different regions. Asia, south Europe, and South America (particularly Brazil) have seen the largest improvements in TFP. 
 
 <iframe src="https://public.tableau.com/views/6730_Visualizations/TFPRegion?:showVizHome=no&:embed=true"
         width="800" 
         height="600" 
         frameborder="0"></iframe>
+
+This progress demonstrate that agriculture can meet the world's growing demands. However, sustainable agriculture- achieving productivity gains while minmizing greenhouse gas emissions, protecting water quality, and preserving biodiversity- remains a critical challenge.
 
 # Sources
 
