@@ -87,7 +87,7 @@ There are ways to preserve biodiversity through practices such as crop rotation,
 
 # Water Usage
 
-What about water usage? Water is undeniably vital to all life on Earth. Agriculture accounts for about 70% for global water consumption, primarily for crops and livestock.
+What about water usage? Water is undeniably vital to all life on Earth. Agriculture accounts for about 70% for global water consumption.
 ![Agricultural water consumption as proportion of total water usage](water_infograph.png)
 
 Here you can see how worldwide water use has changed over the years.
