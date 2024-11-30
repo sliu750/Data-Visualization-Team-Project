@@ -87,7 +87,7 @@ There are ways to preserve biodiversity through practices such as crop rotation,
 
 # Water Usage
 
-What about water usage? Water is undeniably vital to all life on Earth. About 70% of worldwide water consumption is by farms, especially for crops and livestock. Excessive water usage can disrupt natural water cycles and diminish water sources such as lakes and rivers, threatening long-term water quality. This highlights not only the need for sustainable water use in agriculture but also the importance of protecting water quality, which is essential for both agricultural productivity and ecosystem health.
+What about water usage? Water is undeniably vital to all life on Earth. About 70% of worldwide water consumption is by farms, especially for crops and livestock. 
 ![Agricultural water consumption as proportion of total water usage](water_infograph.png)
 
 Here you can see how worldwide water use has changed over the years.
@@ -96,6 +96,7 @@ Here you can see how worldwide water use has changed over the years.
         height="600" 
         frameborder="0"></iframe>
 <br><br>
+Excessive water usage can disrupt natural water cycles and diminish water sources such as lakes and rivers, threatening long-term water quality. This highlights not only the need for sustainable water use in agriculture but also the importance of protecting water quality, which is essential for both agricultural productivity and ecosystem health.
 
 # Conclusion
 
