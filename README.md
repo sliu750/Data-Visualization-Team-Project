@@ -54,6 +54,7 @@ With this in mind, let's first look at greenhouse gas emissions. Greenhouse gase
         height="1040" 
         frameborder="0"></iframe>
 <br><br>
+How much of each greenhouse gas is produced, and what is producing them? In agriculture, methane and nitrous oxide are produced way more than carbon dioxide. It is no surprise that cows are largely responsible for methane emissions. Agricultural soil is a leading cause of nitrous oxide emissions, especially in the United States. When nitrate (NO3–) is converted to nitrogen gas (N2), nitrous oxide (N₂O) is released.
 <iframe src="https://public.tableau.com/views/sankey2_17329611840680/SankeySheet?:showVizHome=no&:embed=true" 
         width="1200" 
         height="1040" 
@@ -114,3 +115,5 @@ https://ourworldindata.org/food-ghg-emissions
 https://www.epa.gov/enviroatlas/enviroatlas-benefit-category-biodiversity-conservation
 
 https://www.icl-group.com/blog/the-importance-of-biodiversity-to-sustainability-and-the-future-of-agriculture/
+
+https://extension.okstate.edu/fact-sheets/nitrous-oxide-emissions-from-soil.html#:~:text=Soil%20management%20in%20agricultural%20systems,processes%20occurring%20in%20the%20soil.
