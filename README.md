@@ -107,7 +107,7 @@ But at the end of day, are the environmental losses justifiable? What have we ga
         width="800" 
         height="600" 
         frameborder="0"></iframe>
-
+<br><br>
 This progress demonstrate that agriculture can meet the world's growing demands. However, sustainable agriculture- achieving productivity gains while minmizing greenhouse gas emissions, protecting water quality, and preserving biodiversity- remains a critical challenge.
 
 # Sources
