@@ -47,8 +47,23 @@
         }
         /* General iframe styling */
         iframe {
-            margin: 20px 0;
+            display: block;
+            margin: 20px auto;
+            animation: fadeUp 1.5s ease-in-out;
         }
+
+         /* Keyframes for fading up the iframe */
+        @keyframes fadeUp {
+            from {
+                transform: translateY(50px); /* Start slightly below */
+                opacity: 0; /* Fully transparent */
+            }
+            to {
+                transform: translateY(0); /* End at original position */
+                opacity: 1; /* Fully visible */
+            }
+        }
+        
         /* Center all images */
         img {
             margin: 20px 0;
@@ -56,6 +71,7 @@
             max-width: 300px;
             height: auto;
         }
+        
         /* Content wrapper */
         .content-wrapper {
             width: 90%; /* Limit width for readability */
