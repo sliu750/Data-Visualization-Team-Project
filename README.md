@@ -3,7 +3,7 @@
     <h1 style="font-size: 2.5em; margin: 0; line-height: 1.2;">Environmental Impacts of Agriculture</h1>
     <h3 style="font-weight: 400; margin: 0;">Elliott Chen, Hyunju Ji, Sean Liu, Seohee Yoon</h3>
   </div>
-  <img src="6730-Data-Vis-Team-Project/title.jpg" alt="Descriptive Image" style="height: 200px; margin-left: 20px;">
+  <img src="title.jpg" alt="Descriptive Image" style="height: 200px; margin-left: 20px;">
 </div>
 
 
