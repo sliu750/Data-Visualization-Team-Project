@@ -32,6 +32,18 @@
             position: relative;
             z-index: 2; /* Above the overlay */
             color: white;
+            animation: slideDown 1.5s ease-out;
+        }
+
+         @keyframes slideDown {
+            from {
+                transform: translateY(-100%); /* Start above the viewport */
+                opacity: 0; /* Fully transparent */
+            }
+            to {
+                transform: translateY(0); /* End at original position */
+                opacity: 1; /* Fully visible */
+            }
         }
         /* General iframe styling */
         iframe {
