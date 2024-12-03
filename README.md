@@ -1,9 +1,6 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h1 style="font-size: 2.5em; margin: 0; line-height: 1.2;">Environmental Impacts of Agriculture</h1>
-    <h3 style="font-weight: 400; margin: 0;">Elliott Chen, Hyunju Ji, Sean Liu, Seohee Yoon</h3>
-  </div>
-  <img src="title.jpg" alt="Descriptive Image" style="height: 200px; margin-left: 20px;">
+<div style="background-image: url('title.png'); background-size: cover; background-position: center; color: white; padding: 50px; text-align: center; border-radius: 10px;">
+  <h1 style="font-size: 3em; margin: 0;">Environmental Impacts of Agriculture</h1>
+  <h3 style="font-weight: 400; margin: 10px 0;">Elliott Chen, Hyunju Ji, Sean Liu, Seohee Yoon</h3>
 </div>
 
 
