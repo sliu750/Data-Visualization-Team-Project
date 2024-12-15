@@ -1,1 +1,3 @@
-6730 Data Visualization Project
+**Link to published content**: https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/ 
+
+Our project explores and visualizes the environmental impacts of modern agriculture, focusing on greenhouse gas emissions, biodiversity trends, and water usage. Agricultural practices contribute to environmental degradation, such as greenhouse gas emissions from raising livestock, biodiversity changes caused by overgrazing and monoculture farming, and excessive water usage coupled with water contamination. Using global data from the past decade, we visualize trends and patterns to illustrate how agriculture has impacted the environment. This project aims to raise awareness about the challenges of agricultural sustainability and propose actionable steps for mitigating such issues.
